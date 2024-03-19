@@ -1,0 +1,10 @@
+import pytesseract using => pip install pytesseract
+install exe file by pasting the respective link into the browser
+LINK: https://www.pantechsolutions.net/media/attachement/file/t/e/tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe
+
+FLOW PROCESS OF PROJECT:
+  1. upload the image file in program 
+  2. program scans the image
+  3. OCR is applied
+  4. result is stored into the notepad as text document
+The accuracy of project is about "80%"
